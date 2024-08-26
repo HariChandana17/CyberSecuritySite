@@ -1,0 +1,8 @@
+ibm_watsonx_ai
+openpyxl
+urllib
+requests
+random
+json
+re
+pandas

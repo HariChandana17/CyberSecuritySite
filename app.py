@@ -293,7 +293,7 @@ def login_page():
             st.session_state.logged_in = True
             st.session_state.user_name = name
             st.success(f"Welcome, {name}! You have successfully logged in.")
-            st.experimental_rerun()
+            st.rerun()
         else:
             st.error("Please enter both name and location.")
  

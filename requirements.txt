@@ -1,4 +1,4 @@
-ibm_watsonx_ai
+ibm-watsonx-ai
 openpyxl
 urllib
 requests

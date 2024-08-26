@@ -2,7 +2,3 @@ ibm-watsonx-ai==1.1.6
 openpyxl==3.1.5
 urllib3==2.0.1
 requests==2.30.0
-random==3.10.0
-json==4.0.0
-re==3.0.0
-pandas==2.0.0

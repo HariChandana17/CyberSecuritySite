@@ -1,4 +1,2 @@
 ibm-watsonx-ai==1.1.6
 openpyxl==3.1.5
-urllib3==2.0.1
-requests==2.30.0
